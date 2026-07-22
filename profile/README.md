@@ -32,7 +32,7 @@ trust.
 
 Our work turns research and collaboration into real change across three pillars:
 
-- **🌉 Field Building** — we build bridges between policymakers, researchers, and industry leaders to turn AI challenges into shared governance frameworks.
+- **🌉 Convening** — we build bridges between policymakers, researchers, and industry leaders to turn AI challenges into shared governance frameworks.
 - **🔬 Research & Governance Studies** — we conduct multi-country studies, policy analyses, and regional reports that guide evidence-based AI governance decisions.
 - **🎓 Capacity Building** — we design programs that empower institutions and individuals to understand, regulate, and innovate responsibly with AI.
 
