@@ -5,7 +5,7 @@
 <h1 align="center">AI Safety Asia (AISA)</h1>
 
 <p align="center">
-  <strong>Trustworthy, primary-source AI-governance intelligence for Southeast Asia.</strong>
+  <strong>A standing channel for Asia's middle powers to shape how frontier AI is governed.</strong>
 </p>
 
 <p align="center">
@@ -18,19 +18,44 @@
 
 ## 🌏 Who we are
 
-**AI Safety Asia (AISA)** is a non-profit dedicated to building Asia as a globally-leading safe
-and responsible AI innovator. We produce **trustworthy, primary-source AI-governance
-intelligence** and **build regional capacity** — working to be the single source of truth for AI
-governance across the 11 ASEAN jurisdictions, where information is otherwise scattered across
-government portals and many languages.
+**AI Safety Asia (AISA)** is a non-profit that empowers Asia's most influential
+democratically-oriented middle powers — **Japan, the Republic of Korea, Singapore and
+Indonesia** — to take up their role as a collective counterweight to concentrated control over
+how frontier AI is developed, deployed and governed.
 
-We serve regulators, parliamentary teams, legal & compliance teams, journalists, civil society,
-public-sector leaders, and researchers who need contextual AI-governance intelligence they can
-trust.
+AI power is concentrated; the leverage over it is scattered. Every one of these governments
+would be better off acting together, but none wants to move first without knowing the others
+will follow — so each keeps negotiating alone, on the suppliers' information. What changes that
+is not a treaty. It is a standing channel where officials learn what their counterparts will
+actually do, before positions harden. Nobody had built Asia's.
+
+We do that by mapping the levers each state holds or can influence, acting as a trusted advisor
+with regional credibility to national institutions, and working as an agile partner to multiply
+that leverage on multilateral platforms.
+
+## 🗺️ Where the leverage sits
+
+Four states hold what the frontier AI stack cannot be built or deployed without. Separately each
+can be bargained around; together, timed to a chairmanship one of them holds, they cannot.
+
+| | What it holds | Platform |
+| --- | --- | --- |
+| **Singapore** | Procurement discipline and technical governance | ASEAN chair, 2027 |
+| **Japan** | Semiconductor materials and equipment; a major market | G7, OECD, safety institutes |
+| **Republic of Korea** | Advanced memory the AI stack cannot be built without | G20 chair, 2028 |
+| **Indonesia** | Major deployment market; binding AI rules being drafted now | G20, ASEAN Secretariat host |
+
+Our work reaches government officials and regulators, researchers, civil society, journalists,
+legal & compliance teams, and the public sector and business.
 
 ## 🧭 What we do
 
-Our work turns research and collaboration into real change across three pillars:
+Map the leverage → a sponsor owns it → rehearse the scenario → a debrief memo of consequences
+and options → a clear agenda → the network of officials carry it into the G20, APEC, ASEAN or
+the UN → a norm for the peer group → other states adapt it. Every link is a deliverable, not a
+hope.
+
+We deliver that across three pillars:
 
 - **🌉 Convening** — we build bridges between policymakers, researchers, and industry leaders to turn AI challenges into shared governance frameworks.
 - **🔬 Research & Governance Studies** — we conduct multi-country studies, policy analyses, and regional reports that guide evidence-based AI governance decisions.
@@ -66,4 +91,4 @@ Life Institute · Long-Term Future Fund · Survival & Flourishing Fund.
 - 🌐 Website — **[www.aisafety.asia](https://www.aisafety.asia/)**
 - ✉️ Email — **[contact@aisafety.asia](mailto:contact@aisafety.asia)**
 
-<p align="center"><sub>Together, we're building a safer digital future for Asia.</sub></p>
+<p align="center"><sub>Agendas harden into rules. Suppliers meet a standard instead of naming a price.</sub></p>
