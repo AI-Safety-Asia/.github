@@ -77,14 +77,19 @@ We deliver that across three pillars:
 > Explore all of our work at **[aisafety.asia](https://www.aisafety.asia/)**. Public code lives
 > in the repositories below.
 
-## 🤝 Partners & funders
+## 🤝 Partners & collaborators
 
-**Partners & collaborators** — Cooperative AI Foundation · IMDA (Singapore) · KOMDIGI (Indonesia)
-· Korika · DOST (Philippines) · The Future Society · NUS AI Institute · Singapore Management
-University.
+**Governments & national institutions** — IMDA (Singapore) · KOMDIGI (Indonesia) · KORIKA
+(Indonesia) · DOST-ASTI (Philippines) · INDIAai.
 
-**Funders** — FCDO (UK) · Open Society Foundation · Patrick J. McGovern Foundation · Future of
-Life Institute · Long-Term Future Fund · Survival & Flourishing Fund.
+**Multilateral & parliamentary platforms** — UN Development Programme · Global Partnership on
+Artificial Intelligence · APEC · Inter-Parliamentary Union · Commonwealth Parliamentary
+Association · World Economic Forum · Paris Peace Forum · INHR.
+
+**Research & civil society** — Cooperative AI Foundation · Centre for the Governance of AI ·
+Oxford Martin School · Chatham House · Brookings Institution · Asia Society · Mila · Stanford
+Deliberative Democracy Lab · MIT AI Risk Initiative · Partnership on AI · International
+Association for Safe and Ethical AI · Apart Research.
 
 ## 📫 Get in touch
 
